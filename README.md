@@ -1,1 +1,1 @@
-This is the first copy of the main branch to do some experiments. # git-learning
+This is the original main branch for programming the web apps. # git-learning
